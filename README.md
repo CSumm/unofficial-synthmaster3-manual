@@ -213,7 +213,7 @@ Primary generator module for standard waveforms, noise, and single-cycle samples
 - **Free Button**: When active, the oscillator's phase runs freely or starts at a random value to emulate analog behavior.
 - **Waveform Editor**: Accessible via a pen icon, this full editor allows you to draw or edit custom single-cycle waveforms.
 
-### Pitch & Movement
+#### Pitch & Movement
 
 - **Pitch & Detune**: Standard coarse pitch (semitones/octaves) and fine-tuning (D2 knob, +/- 50 cents).
 - **Drift**: Simulates vintage analog instability with two sub-parameters:
@@ -223,7 +223,7 @@ Primary generator module for standard waveforms, noise, and single-cycle samples
   - **Amount**: Determines the depth of the tracking effect.
   - **Base Note**: Sets the reference pitch for tracking.
 
-### Oscillator & Voice Tabs
+#### Oscillator & Voice Tabs
 
 The right-hand panel provides deeper per-oscillator and per-voice control:
 
