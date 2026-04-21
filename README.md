@@ -188,7 +188,7 @@ Section broken up into four main tabs: keyboard, XY-Pad, FX Bus and Settings.
 The various oscillator types allow for Free and Sync options to be enabled
 
 - **"Free" button enables a free-running mode, causing the waveform phase to constantly advance rather than resetting to a fixed point every time a key is pressed**
-- Sync **performs [hard oscillator sync](https://www.google.com/search?q=hard+oscillator+sync&sca_esv=23368486d762886d&rlz=1C1CHZN_enCA991CA991&sxsrf=ANbL-n7rmT9waiA3r260i5ljdH_Dyqr0jQ%3A1776721272746&ei=eJ3mab2VLZjS5NoPgovI8Ao&biw=1427&bih=773&ved=2ahUKEwiAyKTdsv2TAxXCM1kFHQ_eDoEQgK4QegQIARAC&uact=5&oq=what+does+sync+do+in+basic+oscillator+in+synthmaster+3&gs_lp=Egxnd3Mtd2l6LXNlcnAiNndoYXQgZG9lcyBzeW5jIGRvIGluIGJhc2ljIG9zY2lsbGF0b3IgaW4gc3ludGhtYXN0ZXIgMzIIEAAYgAQYogQyCBAAGIkFGKIEMgUQABjvBTIIEAAYgAQYogQyCBAAGIAEGKIESNIQUO4GWMYNcAF4AZABAJgBlgGgAbIFqgEDMS41uAEDyAEA-AEBmAIHoALcBcICChAAGEcY1gQYsAOYAwCIBgGQBgeSBwMyLjWgB4IXsgcDMS41uAfXBcIHBTAuMS42yAccgAgB&sclient=gws-wiz-serp&mstk=AUtExfBddGzj9eyzCOrb2xYxKP3nVnxaNLrec0hFXr_u_i4khGw02P_R_OgzrbiDZsI3RLX2y4FOCz9XMbyqJWwynt_kfq4xOLrvZeOHSQcsxg5ZV8Gh35Z-WkzhIbyHWBJ6yqP7Jo6q2N-9gsoldhNz5EsUPsJOlbP9IpSz7_AthXjLAvKI8EfiXX86lTHgFDb2CvO9IAtC5NQfJTtbOisoJS18L1o5L0ZB9x1PA7vIHHc2ZpkE38QqUNI6tJLl4rTJyx6mwbQE7LDuIlp0xl5LG6AQ&csui=3), where a secondary oscillator's waveform phase is reset to zero whenever a primary oscillator completes a cycle**
+- Sync performs hard oscillator sync, where a secondary oscillator's waveform phase is reset to zero whenever a primary oscillator completes a cycle**
 
 Each oscillator type also has a help and options menu. Help (marked by the question mark) opens context leading to video documentation how to use oscillator. The cogwheel opens a context menu to:
 
