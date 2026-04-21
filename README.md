@@ -204,7 +204,7 @@ Each oscillator type also has a help and options menu. Help (marked by the quest
 
 Primary generator module for standard waveforms, noise, and single-cycle samples. It features a modular control set divided into core waveform shaping, performance drift, and voice-level settings.
 
-##### Core Controls & Waveform Shaping
+ **Core Controls & Waveform Shaping**
 
 - **Waveform Selection**: Choose from sine, triangle, square, saw, pulse, or various noise types (white, pink, brown, blue, violet).
 - **Algorithm Parameter**: Acts as a "shaping mode" that alters the waveform's fundamental character. Clicking it reveals categories like **Spectrum** (Lowpass, Highpass), **Bend**, **Pulse**, **Sync**, and **Quantize**.
@@ -213,7 +213,7 @@ Primary generator module for standard waveforms, noise, and single-cycle samples
 - **Free Button**: When active, the oscillator's phase runs freely or starts at a random value to emulate analog behavior.
 - **Waveform Editor**: Accessible via a pen icon, this full editor allows you to draw or edit custom single-cycle waveforms.
 
-#### Pitch & Movement
+**Pitch & Movement**
 
 - **Pitch & Detune**: Standard coarse pitch (semitones/octaves) and fine-tuning (D2 knob, +/- 50 cents).
 - **Drift**: Simulates vintage analog instability with two sub-parameters:
@@ -223,7 +223,7 @@ Primary generator module for standard waveforms, noise, and single-cycle samples
   - **Amount**: Determines the depth of the tracking effect.
   - **Base Note**: Sets the reference pitch for tracking.
 
-#### Oscillator & Voice Tabs
+**Oscillator & Voice Tabs**
 
 The right-hand panel provides deeper per-oscillator and per-voice control:
 
