@@ -18,9 +18,6 @@ Unofficial KV331 Synthmaster 3 user manual
   - [Layers](#layers)
   - [Oscillators](#oscillators)
     - [Basic oscillator](#basic-oscillator)
-      - [Core Controls \& Waveform Shaping](#core-controls--waveform-shaping)
-  - [Pitch \& Movement](#pitch--movement)
-  - [Oscillator \& Voice Tabs](#oscillator--voice-tabs)
     - [Granular oscillator](#granular-oscillator)
     - [Core Granular Oscillator Parameters](#core-granular-oscillator-parameters)
     - [Additive oscillator](#additive-oscillator)
@@ -204,7 +201,7 @@ Each oscillator type also has a help and options menu. Help (marked by the quest
 
 Primary generator module for standard waveforms, noise, and single-cycle samples. It features a modular control set divided into core waveform shaping, performance drift, and voice-level settings.
 
- **Core Controls & Waveform Shaping**
+**Core Controls & Waveform Shaping**
 
 - **Waveform Selection**: Choose from sine, triangle, square, saw, pulse, or various noise types (white, pink, brown, blue, violet).
 - **Algorithm Parameter**: Acts as a "shaping mode" that alters the waveform's fundamental character. Clicking it reveals categories like **Spectrum** (Lowpass, Highpass), **Bend**, **Pulse**, **Sync**, and **Quantize**.
